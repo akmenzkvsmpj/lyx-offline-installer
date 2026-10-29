@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Document+Processor-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-LaTeX+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 LyX Free Installer** — LyX is a free, open-source document processor that offers a semi-WYSIWYG interface for LaTeX, letting users write structured documents visually without writing raw LaTeX code. Works without internet access, no account required. Full offline installation.
+**💻 LyX Free Installer** — LyX is a free, WYSIWYM (What You See Is What You Mean) document processor that combines LaTeX typesetting quality with a more visual editing approach. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About LyX
 
-LyX is a free, open-source document processor that offers a semi-WYSIWYG interface for LaTeX, letting users write structured documents visually without writing raw LaTeX code. Ideal for academic writing, LyX handles equations, citations, cross-references, and complex formatting automatically. It exports to PDF via LaTeX while shielding users from LaTeX syntax complexity.
+LyX is a free, WYSIWYM (What You See Is What You Mean) document processor that combines LaTeX typesetting quality with a more visual editing approach. It abstracts LaTeX markup while producing professional-quality documents for academic writing.
 
 ---
 
 ## ❌ Problem: LyX is hard to access
 
-- **LaTeX Prerequisite** — Requires LaTeX distribution for document export
-- **Learning Curve** — LyX's structured document model differs from word processors
-- **Appearance Customization** — Less direct control over visual appearance than raw LaTeX
-- **Compatibility** — Sharing with non-LyX users requires PDF or LaTeX export
+- **LaTeX Distribution Required** — Needs separate TeX Live installation for PDF output
+- **WYSIWYM vs WYSIWYG** — The visual editing model takes time to understand and adapt to
+- **Not Standard LaTeX** — Using LyX creates LyX-format documents not standard LaTeX files
+- **Limited Template Availability** — Fewer ready-made templates than raw LaTeX distributions
 
 ---
 
@@ -121,7 +121,7 @@ LyX is a free, open-source document processor that offers a semi-WYSIWYG interfa
 
 ---
 
-**LyX Free Installer** — LyX is a free, open-source document processor that offers a semi-WYSIWYG interface for LaTeX, letting users write structured documents visually without writing raw LaTeX code. Install without internet connection today!
+**LyX Free Installer** — LyX is a free, WYSIWYM (What You See Is What You Mean) document processor that combines LaTeX typesetting quality with a more visual editing approach. Install without internet connection today!
 
 <div align="center">
 
